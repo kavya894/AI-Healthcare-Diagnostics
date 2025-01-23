@@ -1,0 +1,6 @@
+Flask
+tensorflow
+flask-mysqldb
+numpy
+scikit-learn
+pandas
